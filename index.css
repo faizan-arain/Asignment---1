@@ -1,3 +1,25 @@
+
+header{background-color: rgb(114, 114, 224);
+    width: 100%;
+height:40px;
+border-radius: 35px;
+
+}
+    .red ul li{
+        float: left;
+        list-style: none;
+    }
+    .red ul{overflow: auto;}
+    .red li{ 
+        padding-left: 140px;
+        margin-top: 10px;
+    }
+    a:hover{color: burlywood;}
+    a{
+        text-decoration: none;
+    }
+    
+
 h1{
     color: rgb(2, 0, 4);
 }
